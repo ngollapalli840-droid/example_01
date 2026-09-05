@@ -8,3 +8,5 @@ public class sr{
         System.out.println(rev);
     }
 }
+
+oiuytrewsghjkl,mnb
